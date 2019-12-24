@@ -1,46 +1,46 @@
 <ul>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(1).pdf" style="text-decoration:none;"> OctNet: Learning Deep 3D Representations at High Resolutions</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(1).pdf" style="text-decoration:none;"> Statistical Inference of Intractable Generative Models via Classification</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(2).pdf" style="text-decoration:none;">Deep Convolutional Priors for Indoor Scene Synthesis</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(2).pdf" style="text-decoration:none;">Nice: Non-linear Independent Components Estimation</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(3).pdf" style="text-decoration:none;">Synthesizing Open Worlds with Constraints using Locally Annealed Reversible Jump MCMC</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(4).pdf" style="text-decoration:none;">Automatic 3D Indoor Scene Modeling from Single Panorama</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(5).pdf" style="text-decoration:none;">Unsupervised Texture Transfer from Images to Model Collections</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(6).pdf" style="text-decoration:none;">Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(3).pdf" style="text-decoration:none;">Deep Exponential Families</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(4).pdf" style="text-decoration:none;">DRAW: A Recurrent Neural Network For Image Generation</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(5).pdf" style="text-decoration:none;">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(6).pdf" style="text-decoration:none;">The Variational Gaussian Process</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(7).pdf" style="text-decoration:none;">Object-Centric Photometric Bundle Adjustment with Deep Shape Prior</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(7).pdf" style="text-decoration:none;">Pixel Recurrent Neural Networks</a></b></li>
  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(8).pdf" style="text-decoration:none;"> Learning 3D Mesh Segmentation and Labeling</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(8).pdf" style="text-decoration:none;">Generating images with recurrent adversarial networks</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(9).pdf" style="text-decoration:none;">Functionality Preserving Shape Style Transfer</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(9).pdf" style="text-decoration:none;">Towards Conceptual Compression</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(10).pdf" style="text-decoration:none;">Shape Completion from a Single RGBD Image</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(11).pdf" style="text-decoration:none;">GAL: Geometric Adversarial Loss for Single-View 3D-Object Reconstruction</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(12).pdf" style="text-decoration:none;">3D Pose Estimation and 3D Model Retrieval for Objects in the Wild</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(13).pdf" style="text-decoration:none;">Learning Part-based Templates from Large Collections of 3D Shapes</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(10).pdf" style="text-decoration:none;">Adversarial Feature Learning</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(11).pdf" style="text-decoration:none;">Adversarially Learned Inference</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(12).pdf" style="text-decoration:none;">Improved Techniques for Training GANs</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(13).pdf" style="text-decoration:none;">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(14).pdf" style="text-decoration:none;">Learning a Predictable and Generative Vector Representation for Objects</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(14).pdf" style="text-decoration:none;">Deep Boltzmann Machines</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(15).pdf" style="text-decoration:none;">VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(16).pdf" style="text-decoration:none;">Unsupervised Co-Segmentation of a Set of Shapes via Descriptor-Space Spectral Clustering</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(17).pdf" style="text-decoration:none;">Model Composition from Interchangeable Components</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(18).pdf" style="text-decoration:none;">Clouds of Oriented Gradients for 3D Detection of Objects, Surfaces, and Indoor Scene Layouts</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(15).pdf" style="text-decoration:none;">Noise-contrastive estimation: A new estimation principle for unnormalized statistical models</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(16).pdf" style="text-decoration:none;">The Helmholtz Machine</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(17).pdf" style="text-decoration:none;">The Neural Autoregressive Distribution Estimator</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(18).pdf" style="text-decoration:none;">Autoencoding beyond pixels using a learned similarity metric</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(19).pdf" style="text-decoration:none;">Supplementary Material for Human-centric Indoor Scene Synthesis Using Stochastic Grammar</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(19).pdf" style="text-decoration:none;">Auxiliary Deep Generative Models</a></b></li>
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(20).pdf" style="text-decoration:none;">Octree Generating Networks: Efficient Convolutional Architectures for High-resolution 3D Outputs</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(21).pdf" style="text-decoration:none;">Deep Generative Modeling for Scene Synthesis via Hybrid Representations</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(20).pdf" style="text-decoration:none;">An Efficient Learning Procedure for Deep Boltzmann Machines</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(21).pdf" style="text-decoration:none;">Stochastic Backpropagation and Approximate Inference in Deep Generative Models</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(22).pdf" style="text-decoration:none;">Style-Content Separation by Anisotropic Part Scales</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(22).pdf" style="text-decoration:none;">Show, Attend and Tell: Neural Image Caption Generation with Visual Attention</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(23).pdf" style="text-decoration:none;">Lions and Tigers and Bears: Capturing Non-Rigid, 3D, Articulated Shape from Images</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/v2(23).pdf" style="text-decoration:none;">Relationship between Pretraining and Maximum Likelihood Estimation in Deep Boltzmann Machines</a></b></li>
  
  </ul>
  
